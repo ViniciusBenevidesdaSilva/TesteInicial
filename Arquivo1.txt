@@ -1,5 +1,6 @@
 Arquivo teste usado para praticar comandos Git
 
 Dados do arquivo;
+Modificacao feita posteriormente
 
 Fim do arquivo
