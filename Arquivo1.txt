@@ -1,0 +1,5 @@
+Arquivo teste usado para praticar comandos Git
+
+Dados do arquivo;
+
+Fim do arquivo
